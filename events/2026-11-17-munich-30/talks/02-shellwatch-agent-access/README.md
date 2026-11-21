@@ -37,4 +37,4 @@ The project is at an early stage, and Martin would really like more people to lo
 1. **Is this a workable answer to an access problem you have day to day?** For example, giving coding agents or ops agents access to servers.
 2. **What would you improve, or which features are missing?**
 
-Please open an issue or a discussion on the [GitHub repo](https://github.com/rado0x54/ShellWatch), or contact Martin in the AAIF Munich Slack.
+Please open an issue or a discussion on the [GitHub repo](https://github.com/rado0x54/ShellWatch), or contact Martin in the [AAIF Community Slack](https://aaif-community.slack.com/) (`#munchen`).
